@@ -1,0 +1,46 @@
+.contain{
+    padding: 50px;
+  }
+  #bar{
+    width: 100%;
+    border-radius: 20px;
+    background-color: #ccc;
+  }
+  #fill{
+    width: 0%;
+    border-radius: 20px;
+   height: 30px;
+    background-color: blue;
+  }
+  #progress-bar-count{
+    text-align: center;
+    font-size: 25px;
+  }
+  .well{
+    margin-top: 10px;
+  }
+  #enter_amount{
+    margin-top: 50px;
+  }
+  #btn{
+    
+    margin-top: 50px;
+    text-align:center;
+    
+  }
+  .amount{
+    font-size:4vw;
+    background-color: #ccc;
+    border-radius: 15px;
+    text-align: center;
+  }
+  #percentages {
+    margin-top: 50px;
+  }
+  h3{
+    display: none;
+  }
+  h2{
+    border-bottom-style: solid;
+  }
+  
