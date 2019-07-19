@@ -1,5 +1,5 @@
 
-
+//tip calculator
 function calTip(){
     const bill = Number(document.getElementById("bill").value);
     const percent20 = Number(document.getElementById("percent20").innerHTML);
